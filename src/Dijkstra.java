@@ -1,10 +1,9 @@
 /* 
  * Graph shortest path with Dijkstra
- * Labb 5 Uppgift 10
+ * L5 U10
+ * 
  * For each node calculates the neighboring node value and mark neighboring nodes until target reached.
- *
  * Viktad riktad graf. Bestämma kortaste vägarna från ett hörn i grafen till alla andra hörn.
- *  
  */
 
 
